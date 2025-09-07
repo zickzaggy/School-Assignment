@@ -1,2 +1,5 @@
 # School-Assignment-
-Im not copying anything, im just doing what my teacher told me, so ya this repository is just for my assignment and 
+HI! Welcome to my assignment repository, in this repository
+contains my software engineering assignment from my school teacher
+I hope i can get a good score
+Aamiin :)
